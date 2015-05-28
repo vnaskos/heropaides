@@ -1,0 +1,75 @@
+.theme-settings {
+	color: #333;
+	font-family: Arial;
+	width: 745px;
+}
+
+.theme-settings h2 {
+	font-family: Georgia;
+	font-size: 22px;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.theme-settings .description {
+	margin-left: 5px;
+}
+
+.theme-settings .title {
+	background: #d2eaff;
+	border: 1px solid #c1ddf5;
+	height: 30px;
+	padding: 10px 8px;
+	margin-top: 18px;
+	margin-left: 5px;
+	text-transform: uppercase;
+	width: 100%;
+}
+
+.theme-settings .title h3 {
+	float: left;
+	margin: 8px;
+}
+
+.theme-settings #submit {
+	float: right;
+}
+
+.theme-settings .fieldset-item {
+	display: inline-table;
+	background: #ecf6ff;
+	border: 1px solid #cae2f7;
+	padding: 30px 0 30px 15px;
+	margin-left: 5px;
+	border-top: 1px solid #fff;
+	width: 100%;
+}
+
+.theme-settings .textfield {
+	float: left;
+	width: 245px;
+}
+
+.theme-settings .textarea {
+	float: left;
+	width: 245px;
+	height: 130px;
+}
+
+.theme-settings .checkbox {
+	float:left;
+}
+
+.theme-settings label {
+	font-size: 13px;
+	padding-right: 65px;
+	float: left;
+	width: 110px;
+}
+
+.theme-settings small {
+	float: left;
+	width: 290px;
+	font-size: 11px;
+	margin-left: 30px;
+}
